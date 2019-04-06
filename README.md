@@ -20,11 +20,13 @@ run rename.py
 run resize_image.py
 
 ```
-** zip files specified:**
+**zip files specified:**
 
 The original dataset [web_image](https://github.com/slayAlphalu/facial-image-dataset-for-deep-learning/blob/master/web_image.zip)
 
-The datasets with logical names [full_data_rename.zip] (https://github.com/slayAlphalu/facial-image-dataset-for-deep-learning/blob/master/full_data_rename.zip)
+The datasets with logical names [full_data_rename.zip](https://github.com/slayAlphalu/facial-image-dataset-for-deep-learning/blob/master/full_data_rename.zip)
+
+The final dataset after every image standardized to 224x224x3 [full_data_standardize.zip](https://github.com/slayAlphalu/facial-image-dataset-for-deep-learning/blob/master/full_data_standardize.zip)
 
 
 ### p.s. the dataset originally published in [kaggle](https://www.kaggle.com/datasets?sortBy=updated&group=my&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=13300)
