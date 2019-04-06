@@ -21,6 +21,6 @@ run resize_image.py
 
 ```
 
-the original dataset [web_image] (https://github.com/slayAlphalu/facial-image-dataset-for-deep-learning/blob/master/web_image.zip)
+the original dataset [web_image](https://github.com/slayAlphalu/facial-image-dataset-for-deep-learning/blob/master/web_image.zip)
 
 ### p.s. the dataset originally published in [kaggle](https://www.kaggle.com/datasets?sortBy=updated&group=my&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=13300)
