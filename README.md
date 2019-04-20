@@ -20,6 +20,11 @@ run rename.py
 run resize_image.py
 
 ```
+
+```bash
+run CNN.py
+
+```
 **zip files specified:**
 
 The original dataset [web_image](https://github.com/slayAlphalu/facial-image-dataset-for-deep-learning/blob/master/web_image.zip)
